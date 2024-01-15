@@ -1,7 +1,9 @@
+import Register from "./pages/Register";
+import "./style.scss"
 function App() {
   return (
     <>
-      <h1>hello firebase chat</h1>
+      <Register />
     </>
   );
 }
